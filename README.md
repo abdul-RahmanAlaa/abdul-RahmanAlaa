@@ -9,11 +9,15 @@
 <h2>🔧 Technologies & Tools</h2>
 <dl>
   <dt>Languages</dt>
-  <dd>HTML, CSS, JavaScript, C#, Dart</dd>
+  <dd>HTML, CSS, JavaScript
+<!--     , C#, Dart -->
+  </dd>
   <dt>Frameworks</dt>
-  <dd>Angular, React, Vue, React Native, Flutter</dd>
+  <dd>Angular, React, Vue
+<!--     , React Native, Flutter -->
+  </dd>
   <dt>Technologies</dt>
-  <dd>SCSS, TypeScript</dd>
+  <dd>TypeScript, SCSS, Tailwind CSS</dd>
   <dt>Build Tools</dt>
   <dd>Webpack, Vite</dd>
   <dt>Version Control</dt>
