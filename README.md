@@ -6,8 +6,6 @@
 <h2>🏆 Education</h2>
 <p>I'm an ITI graduate as a software developer [frontend].</p>
 
-<br/>
-
 <h2>🔧 Technologies & Tools</h2>
 <dl>
   <dt>Languages</dt>
@@ -22,8 +20,6 @@
   <dd>Git</dd>
 </dl>
 
-<br/>
-
 <!-- <h2>🚀 Projects</h2> -->
 <!-- List your projects with brief descriptions -->
 
@@ -34,7 +30,5 @@
   <li><a href="https://stackoverflow.com/users/15046765/abd-el-rhman-alaa">Stack Overflow</a></li>
   <li><a href="https://www.upwork.com/freelancers/~0147c26e39f45cef4c">Up Work</a></li>
 </ul>
-
-<br/>
 
 <p>Feel free to explore my repositories and reach out if you have any questions or collaboration ideas! 😊</p>
