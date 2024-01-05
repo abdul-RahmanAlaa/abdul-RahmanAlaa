@@ -31,13 +31,13 @@
 
 <h2>📫 Let's Connect!</h2>
 <div>
-  [LinkedIn](https://www.linkedin.com/in/abdulrahaman-el-bana-4186b6255/)
+ - [LinkedIn](https://www.linkedin.com/in/abdulrahaman-el-bana-4186b6255/)
   ,
-  [Twitter](https://twitter.com/Abdoalaaabdo17)
+- [Twitter](https://twitter.com/Abdoalaaabdo17)
   ,
- [Stack Overflow](https://stackoverflow.com/users/15046765/abd-el-rhman-alaa)
+- [Stack Overflow](https://stackoverflow.com/users/15046765/abd-el-rhman-alaa)
   ,
-  [UpWork](https://www.upwork.com/freelancers/~0147c26e39f45cef4c)
+ - [UpWork](https://www.upwork.com/freelancers/~0147c26e39f45cef4c)
 </div>
 
 <br/>
