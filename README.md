@@ -20,6 +20,8 @@
   <dd>TypeScript, SCSS, Tailwind CSS</dd>
   <dt>Build Tools</dt>
   <dd>Webpack, Vite</dd>
+  <dt>Package Manager</dt>
+  <dd>yarn, npm</dd>
   <dt>Version Control</dt>
   <dd>Git</dd>
 </dl>
@@ -35,7 +37,7 @@
   ,
   <a href="https://stackoverflow.com/users/15046765/abd-el-rhman-alaa">Stack Overflow</a>
   ,
-  <a href="https://www.upwork.com/freelancers/~0147c26e39f45cef4c">Up Work</a>
+  <a href="https://www.upwork.com/freelancers/~0147c26e39f45cef4c">UpWork</a>
 </div>
 
 <br/>
