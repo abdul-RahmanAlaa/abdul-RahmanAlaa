@@ -1,36 +1,34 @@
-<!-- # Hi there! 👋 I'm abdul-Rahman Alaa
+<h1>👋 Hi, I’m Abdulrahman Alaa</h1>
 
-I'm a passionate frontend developer with a love for creating beautiful and interactive user interfaces. My goal is to build web applications that not only function seamlessly but also provide a delightful user experience.
+<h2>About Me</h2>
+<p>I'm a junior web developer looking for new opportunities in a professional environment to gain experience while collaborating with a team, continuously learning and enhancing skills, and creating user-friendly web experiences to contribute to project success.</p>
 
-## 🔧 Technologies & Tools
+<h2>🏆 Education</h2>
+<p>I'm an ITI graduate as a software developer [frontend].</p>
 
-- **Languages:** HTML, CSS, JavaScript
-- **Frontend Frameworks:** React.js, Vue.js
-- **Styling:** Sass, Styled Components
-- **Build Tools:** Webpack, Parcel
-- **Version Control:** Git
+<h2>🔧 Technologies & Tools</h2>
+<dl>
+  <dt>Languages</dt>
+  <dd>HTML, CSS, JavaScript, C#, Dart</dd>
+  <dt>Frontend Frameworks</dt>
+  <dd>Angular, React, Vue</dd>
+  <dt>Technologies</dt>
+  <dd>SCSS, TypeScript</dd>
+  <dt>Build Tools</dt>
+  <dd>Webpack, Vite</dd>
+  <dt>Version Control</dt>
+  <dd>Git</dd>
+</dl>
 
-## 🚀 Projects
+<!-- <h2>🚀 Projects</h2> -->
+<!-- List your projects with brief descriptions -->
 
-### Project 1: [Project Name](Link to Project)
-Description: A brief description of the project and its features.
+<h2>📫 Let's Connect!</h2>
+<ul>
+  <li><a href="https://www.linkedin.com/in/abdulrahaman-el-bana-4186b6255/">LinkedIn</a></li>
+  <li><a href="https://twitter.com/Abdoalaaabdo17">Twitter</a></li>
+  <li><a href="https://stackoverflow.com/users/15046765/abd-el-rhman-alaa">Stack Overflow</a></li>
+  <li><a href="https://www.upwork.com/freelancers/~0147c26e39f45cef4c">Up Work</a></li>
+</ul>
 
-![Project 1](URL to project image)
-
-### Project 2: [Project Name](Link to Project)
-Description: Another awesome project you've worked on.
-
-![Project 2](URL to project image)
-
-## 📈 GitHub Stats
-
-![My GitHub Stats](GitHub Stats Image URL)
-
-## 📫 Let's Connect!
-
-- LinkedIn: [Your LinkedIn Profile](Link to LinkedIn)
-- Twitter: [Your Twitter Handle](Link to Twitter)
-- Portfolio: [Your Portfolio](Link to Portfolio)
-
-Feel free to explore my repositories and reach out if you have any questions or collaboration ideas! 😊
--->
+<p>Feel free to explore my repositories and reach out if you have any questions or collaboration ideas! 😊</p>
