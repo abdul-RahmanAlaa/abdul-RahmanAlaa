@@ -10,8 +10,8 @@
 <dl>
   <dt>Languages</dt>
   <dd>HTML, CSS, JavaScript, C#, Dart</dd>
-  <dt>Frontend Frameworks</dt>
-  <dd>Angular, React, Vue</dd>
+  <dt>Frameworks</dt>
+  <dd>Angular, React, Vue, React Native, Flutter</dd>
   <dt>Technologies</dt>
   <dd>SCSS, TypeScript</dd>
   <dt>Build Tools</dt>
