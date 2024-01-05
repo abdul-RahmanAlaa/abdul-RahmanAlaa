@@ -1,23 +1,44 @@
-# 👋 Hi, I’m Abdulrahman Alaa
+<h1>👋 Hi, I’m Abdulrahman Alaa</h1>
 
-## About Me
-I'm a junior web developer seeking new opportunities in a professional environment. My goal is to gain experience while collaborating with a team, continuously learning and enhancing my skills, and creating user-friendly web experiences that contribute to project success.
+<h2>About Me</h2>
+<p>I'm a junior web developer looking for new opportunities in a professional environment to gain experience while collaborating with a team, continuously learning and enhancing skills, and creating user-friendly web experiences to contribute to project success.</p>
 
-## 🏆 Education
-I graduated from ITI as a software developer with a focus on frontend development.
+<h2>🏆 Education</h2>
+<p>I'm an ITI graduate as a software developer [frontend].</p>
 
-## 🔧 Technologies & Tools
-- Languages: HTML, CSS, JavaScript
-- Frameworks: Angular, React, Vue
-- Technologies: TypeScript, SCSS, Tailwind CSS
-- Build Tools: Webpack, Vite
-- Package Manager: Yarn, npm
-- Version Control: Git
+<h2>🔧 Technologies & Tools</h2>
+<dl>
+  <dt>Languages</dt>
+  <dd>HTML, CSS, JavaScript
+<!--     , C#, Dart -->
+  </dd>
+  <dt>Frameworks</dt>
+  <dd>Angular, React, Vue
+<!--     , React Native, Flutter -->
+  </dd>
+  <dt>Technologies</dt>
+  <dd>TypeScript, SCSS, Tailwind CSS</dd>
+  <dt>Build Tools</dt>
+  <dd>Webpack, Vite</dd>
+  <dt>Package Manager</dt>
+  <dd>yarn, npm</dd>
+  <dt>Version Control</dt>
+  <dd>Git</dd>
+</dl>
 
-## 📫 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/abdulrahaman-el-bana-4186b6255/)
-- [Twitter](https://twitter.com/Abdoalaaabdo17)
-- [Stack Overflow](https://stackoverflow.com/users/15046765/abd-el-rhman-alaa)
-- [UpWork](https://www.upwork.com/freelancers/~0147c26e39f45cef4c)
+<!-- <h2>🚀 Projects</h2> -->
+<!-- List your projects with brief descriptions -->
 
-Feel free to explore my repositories and reach out if you have any questions or collaboration ideas! 😊
+<h2>📫 Let's Connect!</h2>
+<div>
+  <a href="https://www.linkedin.com/in/abdulrahaman-el-bana-4186b6255/">LinkedIn</a>
+  ,
+  <a href="https://twitter.com/Abdoalaaabdo17">Twitter</a>
+  ,
+  <a href="https://stackoverflow.com/users/15046765/abd-el-rhman-alaa">Stack Overflow</a>
+  ,
+  <a href="https://www.upwork.com/freelancers/~0147c26e39f45cef4c">UpWork</a>
+</div>
+
+<br/>
+<p>Feel free to explore my repositories and reach out if you have any questions or collaboration ideas! 😊</p>
