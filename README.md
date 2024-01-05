@@ -1,18 +1,15 @@
 <h1>👋 Hi, I’m Abdulrahman Alaa</h1>
 
 <br/>
-<br/>
 
 <h2>About Me</h2>
 <p>I'm a junior web developer looking for new opportunities in a professional environment to gain experience while collaborating with a team, continuously learning and enhancing skills, and creating user-friendly web experiences to contribute to project success.</p>
 
 <br/>
-<br/>
 
 <h2>🏆 Education</h2>
 <p>I'm an ITI graduate as a software developer [frontend].</p>
 
-<br/>
 <br/>
 
 <h2>🔧 Technologies & Tools</h2>
@@ -30,7 +27,6 @@
 </dl>
 
 <br/>
-<br/>
 
 <!-- <h2>🚀 Projects</h2> -->
 <!-- List your projects with brief descriptions -->
@@ -43,7 +39,6 @@
   <li><a href="https://www.upwork.com/freelancers/~0147c26e39f45cef4c">Up Work</a></li>
 </ul>
 
-<br/>
 <br/>
 
 <p>Feel free to explore my repositories and reach out if you have any questions or collaboration ideas! 😊</p>
