@@ -24,11 +24,17 @@
 <!-- List your projects with brief descriptions -->
 
 <h2>📫 Let's Connect!</h2>
-<ul>
+<!-- <ul>
   <li><a href="https://www.linkedin.com/in/abdulrahaman-el-bana-4186b6255/">LinkedIn</a></li>
   <li><a href="https://twitter.com/Abdoalaaabdo17">Twitter</a></li>
   <li><a href="https://stackoverflow.com/users/15046765/abd-el-rhman-alaa">Stack Overflow</a></li>
   <li><a href="https://www.upwork.com/freelancers/~0147c26e39f45cef4c">Up Work</a></li>
-</ul>
+</ul> -->
+<div>
+  <a href="https://www.linkedin.com/in/abdulrahaman-el-bana-4186b6255/">LinkedIn</a>
+  <a href="https://twitter.com/Abdoalaaabdo17">Twitter</a>
+  <a href="https://stackoverflow.com/users/15046765/abd-el-rhman-alaa">Stack Overflow</a>
+  <a href="https://www.upwork.com/freelancers/~0147c26e39f45cef4c">Up Work</a>
+</div>
 
 <p>Feel free to explore my repositories and reach out if you have any questions or collaboration ideas! 😊</p>
