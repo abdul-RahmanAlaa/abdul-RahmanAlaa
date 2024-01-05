@@ -1,11 +1,7 @@
 <h1>👋 Hi, I’m Abdulrahman Alaa</h1>
 
-<br/>
-
 <h2>About Me</h2>
 <p>I'm a junior web developer looking for new opportunities in a professional environment to gain experience while collaborating with a team, continuously learning and enhancing skills, and creating user-friendly web experiences to contribute to project success.</p>
-
-<br/>
 
 <h2>🏆 Education</h2>
 <p>I'm an ITI graduate as a software developer [frontend].</p>
