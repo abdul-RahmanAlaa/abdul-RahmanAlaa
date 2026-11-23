@@ -1,44 +1,11 @@
-<h1>👋 Hi, I’m Abdulrahman Alaa</h1>
+# Hi, I'm Abdulrahman Alaa 👋
 
-<h2>About Me</h2>
-<p>I'm a junior web developer looking for new opportunities in a professional environment to gain experience while collaborating with a team, continuously learning and enhancing skills, and creating user-friendly web experiences to contribute to project success.</p>
+Front-end developer with 3+ years of experience building production web applications in **Vue 3, React and TypeScript**.
 
-<h2>🏆 Education</h2>
-<p>I'm an ITI graduate as a software developer [frontend].</p>
+- 🏛️ Architected 140+ operational forms for a Saudi government platform (Royal Commission for AlUla)
+- 🧾 Built an Egyptian tax-compliance SaaS (e-invoicing, VAT) serving 1,400+ businesses - Vue 3 PWA, full RTL Arabic
+- 🌍 I specialize in internationalization: RTL/LTR interfaces for Arabic and English products
+- 📫 abdoalaaabdo17@gmail.com · [LinkedIn](https://linkedin.com/in/abdulrahaman-alaa)
 
-<h2>🔧 Technologies & Tools</h2>
-<dl>
-  <dt>Languages</dt>
-  <dd>HTML, CSS, JavaScript
-<!--     , C#, Dart -->
-  </dd>
-  <dt>Frameworks</dt>
-  <dd>Angular, React, Vue
-<!--     , React Native, Flutter -->
-  </dd>
-  <dt>Technologies</dt>
-  <dd>TypeScript, SCSS, Tailwind CSS</dd>
-  <dt>Build Tools</dt>
-  <dd>Webpack, Vite</dd>
-  <dt>Package Manager</dt>
-  <dd>yarn, npm</dd>
-  <dt>Version Control</dt>
-  <dd>Git</dd>
-</dl>
-
-<!-- <h2>🚀 Projects</h2> -->
-<!-- List your projects with brief descriptions -->
-
-<h2>📫 Let's Connect!</h2>
-<div>
-  <a href="https://www.linkedin.com/in/abdulrahaman-el-bana-4186b6255/">LinkedIn</a>
-  ,
-  <a href="https://twitter.com/Abdoalaaabdo17">Twitter</a>
-  ,
-  <a href="https://stackoverflow.com/users/15046765/abd-el-rhman-alaa">Stack Overflow</a>
-  ,
-  <a href="https://www.upwork.com/freelancers/~0147c26e39f45cef4c">UpWork</a>
-</div>
-
-<br/>
-<p>Feel free to explore my repositories and reach out if you have any questions or collaboration ideas! 😊</p>
+### Tech I work with
+Vue 3 · React · TypeScript · Pinia · Redux · Next.js · Tailwind CSS · Vite · Supabase · Git
